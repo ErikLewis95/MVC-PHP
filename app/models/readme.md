@@ -1,0 +1,1 @@
+model merupakan componen yang sangat luas tidak hanya berisi data, objek domain, data mapper, service, intinya berisi bisnis logic aplikasi yang akan dibuat.
