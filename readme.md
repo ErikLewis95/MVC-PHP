@@ -11,12 +11,29 @@ Kenapa MVC :
 5. Digunakan oleh banyaj Web Apllication Program.
 
 FRAMEWORK MVC
-_____________________________________________________________
-|      BAHASA         |           Framework                 |
-|_____________________|_____________________________________|
-|PHP                  |  Codeigniter, Laravel, Yii, dll     |
-|JAVA                 |  Spring MVC, JSF, Struts, dll       |       
-|PYTHON               |  Django, Cherry,Py, dll             |
-|RUBY                 |  Ruby on Rails, Sinatra, dll        |    
-|Javascript           |  AngularJS, React, Backbone.js,dll  |        
-|_____________________|_____________________________________|
+<table boder="2">
+        <tr>
+            <td>BAHASA </td>
+            <td>Framework</td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td>Codeigniter, Laravel, Yii, dll </td>
+        </tr>
+        <tr>
+            <td>JAVA</td>
+            <td>Spring MVC, JSF, Struts, dll </td>
+        </tr>
+        <tr>
+            <td>PYTHON</td>
+            <td>Django, Cherry,Py, dll </td>
+        </tr>
+        <tr>
+            <td>RUBY</td>
+            <td> Ruby on Rails, Sinatra, dll </td>
+        </tr>
+        <tr>
+            <td>Javascript</td>
+            <td>AngularJS, React, Backbone.js,dll </td>
+        </tr>
+    </table>
